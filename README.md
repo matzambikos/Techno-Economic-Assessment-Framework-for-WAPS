@@ -28,7 +28,7 @@ For a selected vessel and sail configuration, the Python script:
    $T_{e,raw}=D_u u_d^2-F_{x,WAPS}$,
 
 
-   where \(D_u u_d^2\) is the simplified hull-resistance estimate and $F_{x,WAPS}$ is the total longitudinal sail force.
+   where $D_u u_d^2$ is the simplified hull-resistance estimate and $F_{x,WAPS}$ is the total longitudinal sail force.
 6. Applies a non-negative floor for the thrust used by the costing model:
 
    
